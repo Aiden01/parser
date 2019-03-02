@@ -108,3 +108,7 @@ const parseDate = date =>
 parseDate('2-3-2019')
     .then(console.log)
     .catch(console.error)
+
+exports = {
+    parseDate,
+}
