@@ -1,2 +1,2 @@
 # date-parser
-An experiment with parser combinators in Javascript
+An experiment with parser combinator in Javascript
